@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lmwaluku/MLDevOpsPipeline/_apis/build/status/lmwaluku.pipelines-java?branchName=master)](https://dev.azure.com/lmwaluku/MLDevOpsPipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
